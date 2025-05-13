@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\views\\venues\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\views\\venues\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\views\\venues\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\views\\venues\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Migrations\\20250513135606_AddRemainingImageUrlChanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventEaseBookingSystem\\Migrations\\20250513135606_AddRemainingImageUrlChanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\eventeasebookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\eventeasebookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\migrations\\20250513140100_fiximageurlcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\migrations\\20250513140100_fiximageurlcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|c:\\users\\zandr\\source\\repos\\eventeasebookingsystem\\eventeasebookingsystem\\migrations\\20250513135837_addimageurltomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2521CA-7284-4B95-9410-72A1C52E03FC}|EventEaseBookingSystem\\EventEaseBookingSystem.csproj|solutionrelative:eventeasebookingsystem\\migrations\\20250513135837_addimageurltomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Venues\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Views\\Venues\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Venues\\Index.cshtml",
+              "RelativeToolTip": "EventEaseBookingSystem\\Views\\Venues\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T18:21:53.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Venues\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Views\\Venues\\Details.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Venues\\Details.cshtml",
+              "RelativeToolTip": "EventEaseBookingSystem\\Views\\Venues\\Details.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T18:21:34.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Venues\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Views\\Venues\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Venues\\Delete.cshtml",
+              "RelativeToolTip": "EventEaseBookingSystem\\Views\\Venues\\Delete.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T18:20:42.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Venues\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Views\\Venues\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Venues\\Edit.cshtml",
+              "RelativeToolTip": "EventEaseBookingSystem\\Views\\Venues\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T17:53:45.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Venues\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Views\\Venues\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Venues\\Create.cshtml",
+              "RelativeToolTip": "EventEaseBookingSystem\\Views\\Venues\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T17:52:29.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250513140100_FixImageUrlColumn.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Migrations\\20250513140100_FixImageUrlColumn.cs",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Migrations\\20250513140100_FixImageUrlColumn.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Migrations\\20250513140100_FixImageUrlColumn.cs",
+              "RelativeToolTip": "EventEaseBookingSystem\\Migrations\\20250513140100_FixImageUrlColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:01:01.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250513135837_AddImageUrlToModels.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Migrations\\20250513135837_AddImageUrlToModels.cs",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Migrations\\20250513135837_AddImageUrlToModels.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Migrations\\20250513135837_AddImageUrlToModels.cs",
+              "RelativeToolTip": "EventEaseBookingSystem\\Migrations\\20250513135837_AddImageUrlToModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:58:37.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250513135606_AddRemainingImageUrlChanges.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Migrations\\20250513135606_AddRemainingImageUrlChanges.cs",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Migrations\\20250513135606_AddRemainingImageUrlChanges.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Migrations\\20250513135606_AddRemainingImageUrlChanges.cs",
+              "RelativeToolTip": "EventEaseBookingSystem\\Migrations\\20250513135606_AddRemainingImageUrlChanges.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:56:07.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Program.cs",
+              "RelativeToolTip": "EventEaseBookingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:50:39.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EventEaseBookingSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\EventEaseBookingSystem.csproj",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\EventEaseBookingSystem.csproj",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\EventEaseBookingSystem.csproj",
+              "RelativeToolTip": "EventEaseBookingSystem\\EventEaseBookingSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T12:46:50.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "EventEaseBookingSystem\\Views\\Events\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T11:39:19.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\appsettings.json",
+              "RelativeToolTip": "EventEaseBookingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T11:25:55.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "EventEaseBookingSystem\\Views\\Events\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T11:23:31.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Models\\Event.cs",
+              "RelativeToolTip": "EventEaseBookingSystem\\Models\\Event.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:20:31.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Models\\Venue.cs",
+              "RelativeToolTip": "EventEaseBookingSystem\\Models\\Venue.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:02:58.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EventEaseBookingSystem\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAIwJQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:57:08.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Models\\Booking.cs",
+              "RelativeToolTip": "EventEaseBookingSystem\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:31:57.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "EventEaseBookingSystem\\Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T09:56:10.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "EventEaseBookingSystem\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwJ0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:53:56.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "EventEaseBookingSystem\\Controllers\\VenuesController.cs",
+              "ToolTip": "C:\\Users\\zandr\\source\\repos\\EventEaseBookingSystem\\EventEaseBookingSystem\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "EventEaseBookingSystem\\Controllers\\VenuesController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAUwKAAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:27:38.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
